@@ -11,3 +11,7 @@
 
 ## lec 2: basics
 1. variables!
+2. SCOPES in rust
+3. help/explain commands in rust compiler
+4. basic control Statements and Expressions
+5. shadowing variables   
